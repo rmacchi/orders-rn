@@ -1,4 +1,4 @@
-![Cover](./.github/cover.svg)
+![Cover](./.github/cover.png)
 
 # Orders (React Native)
 
@@ -10,5 +10,5 @@ After cloning the repository, access the project folder and execute the commands
 
 ```sh
 npm install
-npm expo start
+npx expo start
 ```
